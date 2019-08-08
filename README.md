@@ -15,8 +15,6 @@ HINT: Use ```continue```
 #### CW3
 Asks the user ```Enter a word. Enter 'q' to quit.``` Create a while loop that will not quit until they enter 'q'.
 
-HINT: Use ```true``` condition so loop continues forever and ```break``` to exit the loop
-
 
 #### Extra
 Expand your knowledge of Loops by reading the Loop and Iteration section on MDN:
