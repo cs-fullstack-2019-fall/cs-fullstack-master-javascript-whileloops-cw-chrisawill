@@ -1,4 +1,9 @@
 # JavaScript-whileloops-cw
+
+Good start. Partial credit on problem 1.
+Check index.js for comments and let me know if you have any questions.
+Score : 1 point
+
 Classwork: JavaScript While/Do While Loops
 
 ### Create a new file for each exercise
